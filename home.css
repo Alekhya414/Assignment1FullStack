@@ -1,0 +1,124 @@
+body{
+    margin:auto;
+}
+.wholecontent{
+    width:100%;
+    height:70px;
+    background:rgb(216, 37, 37);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#logo{
+  width:47px;
+  height:47px;
+  font-family:sans-serif;
+  font-size:40px;
+  font-weight:bold;
+  color:red;
+  border-radius:50%;
+  background:white; 
+  font-style:normal; 
+  padding:5px;
+  margin-left: 110px;
+  margin-bottom:2px;
+  margin-top:6px;
+  float:left;
+
+
+}
+
+  .log{
+     
+     height: 100px;
+     position: absolute;
+     right:250px;
+     top:28px;
+     float:right;
+     color:white;
+     font-size:18px;
+     font-family:sans-serif
+  }  
+  .account{
+      
+      
+      position: absolute;
+      right:78px;
+      top:25px;
+      color:white;
+      border:2px;
+      padding-top:2px;
+      border-width: thin;
+      border-style:outset;
+      padding:3px;
+      height:22px;
+      width:140px;
+      text-align:center;
+      font-size:16px;
+      font-family:sans-serif;
+      
+  }
+
+.image{
+    background:url('IMG-4899.JPG');
+    height:500px;
+    margin-bottom:120px;
+    
+    margin-top:120px;
+    margin:120px;
+    border-style:hidden;
+    background-size:cover;
+}
+.para{
+    border:3px;
+width: 18%;
+    height:40px;
+    float:right;
+    position:absolute;
+    bottom:60px;
+    right:135px;
+    padding-left: 2px;
+    font-size:22px;
+    font-weight:bold;
+    color:darkblue;
+    background:rgb(228, 226, 226);
+    opacity:0.9 ;
+    text-align:center;
+    padding-top: 13px;
+    }
+    .big{
+        font-family:sans-serif;
+        color:rgb(26, 26, 87);
+        position:absolute;
+        bottom:-30px;
+        margin:8px;
+        margin-left:50px;
+    }
+    
+        
+        
+
+    
+    .Num{
+        font-size:20px;
+       margin-bottom:30px;
+       margin-top:30px;
+        margin-left:80px;
+        color:rgb(15, 15, 48);
+        font-family: sans-serif;
+        
+    }
+.nop{
+    color:rgb(221, 36, 36);
+}
+.address{
+    margin-left: 50px;
+    margin-top:10px;
+    margin-bottom:10px;
+    color:rgb(17, 17, 53);
+}
+.add{
+    margin-left:1%;
+    margin-top:10px;
+    margin-bottom:10px;
+    color:rgb(112, 112, 230);
+}
